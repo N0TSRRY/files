@@ -7,8 +7,16 @@ echo "   \ \__\\ \__\ \_______\   \ \__\  ____\_\  \ \__\\ _\\ \__\\ _\ __/  / /
 echo "    \|__| \|__|\|_______|    \|__| |\_________\|__|\|__|\|__|\|__|\___/ /           ___ "
 echo "                                   \|_________|                  \|___|/           |\__\"
 echo "                                                                                   \|__|"
+Start-Sleep -Seconds 0.5
 Write-Host -NoNewline "b"
-Start-Sleep -Seconds 0.1
+Start-Sleep -Seconds 0.3
 Write-Host -NoNewline "a" 
+Start-Sleep -Seconds 0.3
+Write-Host -NoNewline "l" 
+Start-Sleep -Seconds 0.3
+Write-Host -NoNewline "l" 
+Start-Sleep -Seconds 0.3
+Write-Host -NoNewline "s" 
+Start-Sleep -Seconds 0.3
 
 
