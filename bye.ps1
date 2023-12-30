@@ -7,8 +7,8 @@ echo "   \ \__\\ \__\ \_______\   \ \__\  ____\_\  \ \__\\ _\\ \__\\ _\ __/  / /
 echo "    \|__| \|__|\|_______|    \|__| |\_________\|__|\|__|\|__|\|__|\___/ /           ___ "
 echo "                                   \|_________|                  \|___|/           |\__\"
 echo "                                                                                   \|__|"
-echo -n "y" 
+Write-Host -NoNewline "b"
 Start-Sleep -Seconds 0.1
-echo -n "y" 
+Write-Host -NoNewline "a" 
 
 
