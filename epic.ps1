@@ -8,15 +8,44 @@ echo "    \|__| \|__|\|_______|    \|__| |\_________\|__|\|__|\|__|\|__|\___/ / 
 echo "                                   \|_________|                  \|___|/           |\__\"
 echo "                                                                                   \|__|"
 Start-Sleep -Seconds 1
-Write-Host -NoNewline "b"
+Write-Host -NoNewline "y"
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "o" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "u" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline " " 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "h" 
 Start-Sleep -Seconds 1
 Write-Host -NoNewline "a" 
 Start-Sleep -Seconds 1
-Write-Host -NoNewline "l" 
+Write-Host -NoNewline "v" 
 Start-Sleep -Seconds 1
-Write-Host -NoNewline "l" 
+Write-Host -NoNewline "e" 
 Start-Sleep -Seconds 1
-Write-Host -NoNewline "s" 
+Write-Host -NoNewline " " 
 Start-Sleep -Seconds 1
-
+Write-Host -NoNewline "b" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "e" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "e" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "n" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline " " 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "p" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "w" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "n" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "e" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "d" 
+Start-Sleep -Seconds 1
+Write-Host -NoNewline "." 
+Start-Sleep -Seconds 1
 
