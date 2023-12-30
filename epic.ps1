@@ -9,14 +9,14 @@ echo "                                   \|_________|                  \|___|/  
 echo "                                                                                   \|__|"
 Start-Sleep -Seconds 0.5
 Write-Host -NoNewline "b"
-Start-Sleep -Seconds 0.3
+Start-Sleep -Seconds 1
 Write-Host -NoNewline "a" 
-Start-Sleep -Seconds 0.3
+Start-Sleep -Seconds 1
 Write-Host -NoNewline "l" 
-Start-Sleep -Seconds 0.3
+Start-Sleep -Seconds 1
 Write-Host -NoNewline "l" 
-Start-Sleep -Seconds 0.3
+Start-Sleep -Seconds 1
 Write-Host -NoNewline "s" 
-Start-Sleep -Seconds 0.3
+Start-Sleep -Seconds 1
 
 
